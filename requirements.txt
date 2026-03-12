@@ -1,0 +1,10 @@
+# Real-Time Neural Style Transfer
+# Tested on Python 3.11 — Windows 11, Intel i7-1255U (CPU-only)
+#
+# Install:
+#   pip install -r requirements.txt
+
+tensorflow==2.19.0
+tensorflow-hub
+opencv-python
+numpy
