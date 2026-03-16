@@ -116,13 +116,13 @@ pip install -r requirements.txt
 
 ```bash
 # Basic run (recommended settings)
-python webtrans1.py
+python neuralstyletransfer1.py
 
 # With frame skipping (reduces queue pressure, not throughput)
-python webtrans1.py --frame-skip 2
+python neuralstyletransfer1.py --frame-skip 2
 
 # Select camera if you have multiple
-python webtrans1.py --camera-id 1
+python neuralstyletransfer1.py --camera-id 1
 ```
 
 ### Arguments
